@@ -12,6 +12,12 @@ h1 {
     font-family: 'Comfortaa';
 }
 
+.subtitle {
+    font-weight: 400;
+    font-size: 20px;
+    color: #004aad;
+}
+
 .header {
   background: #ececec;
   margin: 0;
